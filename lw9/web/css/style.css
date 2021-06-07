@@ -204,7 +204,7 @@
 .block-bottom__slider
 {
     display: flex;
-    width: 100%;
+    width: 88%;
     clear: both;
     justify-content: space-around;
 }
